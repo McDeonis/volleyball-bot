@@ -1,1 +1,1 @@
-web: python app.py
+echo "web: python app.py"
